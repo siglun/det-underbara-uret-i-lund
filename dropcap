@@ -1,0 +1,38 @@
+.\" The following is a short troff macro for creating drop caps.
+.\" Its first argument is the string to be dropped,
+.\" and its second (optional) argument is the number of lines to be
+.\" spanned (2, 3, 4, or 5; default=2).
+.\"
+.\" Written by Robert Marks, bobm@agsm.unsw.edu.au  -- Version 1.2, Feb 14, 1988
+.\"
+.de In          \"DC macro -- indent revert, trap turned off
+'in
+.wh \\n(v2u
+..
+.de DC          \"Drop Cap to the next line.
+.br
+.nr nL 2
+.       if "\\$2"3" .nr nL 3
+.       if "\\$2"4" .nr nL 4
+.       if "\\$2"5" .nr nL 5
+.nr fS \\n(.s
+.nr pS (\\n(nL*\\n(.L*\\n(.v/10)+(35*\\n(fS*(3*\\n(nL-4)/200)+1
+.ie \\n(pS>99 \{\
+.       tm The drop cap on line \\n(c. of file \\n(.F is too large --
+.       tm (\\n(pS > 99), ... so this drop cap has been abandoned.
+\\$1\c\}
+.el \{\
+.       ne \\n(nL
+\&
+.       mk hH
+.       nr v2 (\\n(nL*\\n(.L*\\n(.v)+\\n(hH
+.       nr vV \\n(.L*(\\n(nL-2)
+.       sp \\n(vV
+.       ie \\n(pS>36 \{\s(\\n(pS\\$1\s\\n(fS
+.               nr hS \w'\s(\\n(pS\\$1\s\\n(fS\\^'\}
+.       el \{\s\\n(pS\\$1\s\\n(fS
+.               nr hS \w'\s\\n(pS\\$1\s\\n(fS\\^'\}
+.       in +\\n(hSu
+.       sp |\\n(hHu
+.       wh \\n(v2u In\}
+..

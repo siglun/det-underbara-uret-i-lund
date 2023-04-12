@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+
+<div1 n="7">
+
+<head>Kapitel 7</head>
+
+  <div2 n="1">
+
+    <p rend="noindent"><seg rend="dropcap">S</seg><seg
+     rend="capitals">å satt <name TEIform="name"
+     type="person">Vibeke</name></seg> tillsammans med Broder <name
+     type="person">Konrad</name> framför den öppna spisen i <name
+     type="place">Scriptorium</name>. De satt tysta, eftersom ingen av
+     dem kunde riktigt förmå sig till skolarbete rakt i krigets
+     skugga. Båda visste att kung Carl väntade på Tuve. Och Tuve, ja
+     han väntade på &mdash; eller förberedde &mdash; något. Ingen
+     visste vad.</p>
+
+     <stage>Vibeke stirrade i härden, medan Konrad betraktade
+     Vibeke. Han harklade sig.</stage>
+
+    <sp><speaker>Konrad</speaker><p rend="nobreak">Vad var det du hade
+    i läxa till igår, Vibeke?</p></sp>
+    
+    <sp><speaker>Vibeke</speaker><p rend="nobreak">Jag skulle ha läst hela
+         <title level="m">Filosofins tröst,</title>
+           <note place="unspecified" anchored="yes" TEIform="note">
+              <bibl default="NO" TEIform="bibl">
+                 <author TEIform="author">Boethius,</author>
+                 <title level="m">Filosofins tröst.</title>
+                 <publisher TEIform="publisher">Atlantis</publisher>,
+                 <pubPlace TEIform="pubPlace">Stockholm</pubPlace>
+                 <date>1987</date>.
+                 <note place="inline"><title level="m">De consolatione
+                 Philosofie</title> Skrevs någon gång 525 &ndash; 526
+                 e. kr. medan Boethius satt fängslad (sannolikt
+                 oskyldigt dömd för majestätsbrott) i väntan på
+                 dödsdomen skulle verkställas.</note>
+              </bibl>
+           </note>
+          men jag kan inte påstå att det vare sig gick särskilt bra eller att det hjälpte.
+      </p>
+    </sp>
+
+    <stage>Vibeke log snett, och såg, förväntansfullt på Konrad,
+     som sträckte på sig lite, och log mot sin unga lärljunge.</stage>
+
+    <sp>
+      <speaker>Konrad</speaker> <stage>undrande</stage> <p
+      rend="nobreak">Hjälpte inte? Vad skulle den boken hjälpa dig
+      med?</p>
+    </sp>
+
+    <sp>
+      <speaker>Vibeke</speaker> <stage>sorgset</stage> <p
+      rend="nobreak">Med tröst, kanske. Med tanke på att den skrevs av
+      Boethius medan att han väntade på att dödsdomen skulle
+      verkställas. Han beskriver hur filosofin kom till honom i form
+      av en kvinna och skänkte tröst. Jag tänkte att hans bok kanske
+      skulle kunna trösta mig också. Jag har ju en betydligt större
+      chans att överleva, kriget till trots, än Boethius.</p>
+    </sp>
+
+    <stage>De är tysta ett tag. Båda två studerar glöden in
+    spisen. Det börjar bli kallt, och trots bristen på bränsle lägger
+    Konrad på en ordentlig vedklabbe.</stage>
+
+    <sp>
+      <speaker>Vibeke</speaker><p rend="nobreak">Boethius menar att
+      onda människor är svaga, och att de goda är starka. Jag förstår
+      hur han menar, men just nu känns det än mer paradoxalt än när
+      jag började studera boken.</p>
+    </sp>
+
+     <sp>
+      <speaker>Konrad</speaker><p rend="nobreak">Ta Boethius argument
+      från början!</p>
+    </sp>
+
+    <stage>Vibeke suckade och blängde surt på Konrad.</stage>
+
+     <sp>
+      <speaker>Vibeke</speaker> <stage>uppgivet</stage>
+
+      <p rend="nobreak">Människan är utrustad med förnuft, och en fri
+      vilja. Det ena förutsätter det andra. Om inte förnuftet fanns,
+      skulle vi inte kunna fatta beslut i enlighet med vår vilja. Det
+      högsta goda är lycksalighet. Alla vill nå den.</p>
+
+    </sp>
+
+    <sp>
+      <speaker>Vibeke</speaker> <stage>fortsätter tvekande</stage>
+
+      <p rend="nobreak">Enligt Boethius finns egentligen inte ondskan
+      &mdash; det som vi upplever som ont är egentligen frånvaro av
+      godhet. Alla människor strävar efter godhet, men det krävs
+      styrka och vilja för att lyckas. De onda är svaga människor,
+      utan tillräcklig styrka och makt för att genom godhet nå
+      lycksaligheten. Alltså är kung Carl svag, antar jag. Han föll
+      för sina lustar, och invaderade Danmark.</p>
+
+    </sp>
+
+
+   <sp><speaker>Konrad</speaker> <p rend="nobreak">Jag förstår att du
+     tycker att det låter konstigt. Kung Carl är så stark, på ett
+     sätt. Hela Lund är kringränt av hans folk, och om vår vår stad
+     får leva eller om den skall brinna beror på honom. Vari består
+     skillnaden?</p>
+    </sp>
+
+   <sp><speaker>Vibeke</speaker> <p rend="nobreak">För månglarna på
+     torget och för magistraten i rådhuset <emph>är</emph> Carl en
+     stark man. Boethius skulle ha sett honom som ett ynk. (Frågan är
+     om han inte har rätt.) Fast, detta är ju närmast en fråga om vad
+     man menar med styrka. Man skulle kunna säga att styrka
+     är ett mått på det mostånd man måste kunna övervinna för att man
+     med en gärning skall uppnå en önskad effekt. En stark person kan
+     lyfta stora stenar, eller göra stora goda saker. Och omvänt, om
+     en stark människa gör onda saker, ja då gör det ont.</p>
+    </sp>
+
+    <sp><speaker>Konrad</speaker> <p rend="nobreak">Det är klart att
+     en författare måste ha friheten att definiera begrepp efter sina
+     behov. Vilken definition av styrka är bäst?</p>
+   </sp>
+
+    <sp><speaker>Vibeke</speaker> <p rend="nobreak">Antag att en vagn
+     välter nere på stortorget, och man ger sig ut för att leta efter
+     några starka karlar som kan lyfta den på rätt köl igen. Två
+     personer ger sig ut och letar, en som anammar Boethius definition
+     av styrka och en som använder den alldagliga, vem av de två
+     skulle bringa hjälp?</p>
+    </sp>
+
+    <sp><speaker>Konrad</speaker> <p rend="nobreak">Din definition är
+     bra, enligt mitt sätt att se. Den täcker även Boethius'
+     definition. Att göra goda saker kan vara svårt. Det är ett
+     motstånd som skall övervinnas. Det kräver kunskap, förståelse och
+     förutseende. För att göra goda saker måste man också
+     övervinna lättjan. Den fattiga änkans styrka räckte för att hon
+     skulle ge sin sista skärv som en allmosa åt de fattiga. Hon gav
+     allt hon ägde.</p>
+    </sp>
+
+    <sp><speaker>Konrad</speaker> <stage>tar boken ur Vibekes
+     knä</stage> <p rend="nobreak">Så här skriver Boethius: <q
+     who="Boethius">Ty varför lämnar de de dygden och och följer
+     lasterna? Eftersom de inte vet vad som är gott? Men vad är
+     svagare än okunnighetens blindhet? Eller vet de vad man bör följa
+     men drivs ur kursen av sina begär? Men då är de svaga genom sin
+     omåttlighet eftersom de inte förmår kämpa mot lasten? Eller
+     överger de med vett och vilja det goda och styr mot lasterna? Men
+     på det sättet upphör de inte bara att vara mäktiga. Ty den som
+     lämnar det gemensamma målet för alla ting slutar samtidigt att
+     finnas till.</q></p>
+    </sp>
+
+    <sp><speaker>Vibeke</speaker> <stage>fnyser</stage> <p
+     rend="nobreak"> Jag går ut till Kung Carls soldater och ber dem
+     dra hem till Sverige igen, eftersom kungen har upphört att finnas
+     till!  Jag, vet, jag vet... Det är inte så han menar, men
+     Boethius vänder och vrider på orden. För en månad sedan hade jag
+     gärna nickat gillande till det citatet. Men inte nu, allt har
+     liksom ändrats.</p>
+    </sp>
+    
+  </div2>
+
+  <div2 n="2">
+
+    <p>De stod där, bleka och darriga alla tre. Hethikka med
+     hjärnskakning, och Brigide och Peder sårade i sina själar. Sår som
+     förmodligen skulle lämna ärr genom hela livet.</p>
+
+    <p><q who="Brigide">Jag tror <emph>inte</emph> vi hinner till högmässan.
+     Nu bär vi in mjölet</q>, sa Brigide. Hon och Peder körde kärran
+     närmare stugan, medan Hethikka raglade fram till dörren och öppnade.
+     Brigide och Peder bar in säckarna.</p>
+
+    <p><q who="Brigide">Nu är det så att har man fått ett slag i huvudet och legat
+     medvetslös, ja då måste man lägga sig ner och hålla sig
+     stilla</q>, sa Brigide. Fram till nu hade hon förefallit apatisk,
+     men på något sätt hade en gnista tänts i henne. Hennes drag bar
+     nu en blek bitterhet eller kanske en tyglad vrede snarare än
+     apati. En insikt om att hon nog var den enda av de tre som var
+     kapabel att fatta beslut.</p>
+
+    <p><q who="Brigide">Och du Peder har fått dig en grym försmak av
+     kriget. Sök upp broder Konrad, du kommer att bli förlåten om du
+     berättar allt precis som det hände!</q> Brigide tystnade, som för
+     att tänka efter. <q who="Brigide">Jag skulle följt med dig men klarar det
+     inte. Jag måste bli varm igen och sköta om Hethikkas huvud.</q>
+     Hethikka hade sjunkit ner på sin bädd.</p>
+
+    <p><q who="Peder">Jag hämtar ved</q>, sa Peder. Han gick ut. Satte
+     kärran på plats i det lilla verktygsskjulet, tog svärdet som låg
+     ovan på vagnen och gick ut och skötte vedhuggningen. Han tittade
+     på vapnet. Det var blodigt. Han torkade av blodet mot en
+     grästuva. Han hade ett fång ved som borde räcka över dagen och
+     bar in allt.</p>
+
+    <p>Brigide hade tvättat av sig det värsta och lånat hela kläder av
+     Hethikka och satt nu och gjorde ett omslag kring änkans huvud. <q
+     who="Brigide">Hämta mer vatten, är du snäll.</q> Hon pekade på ett
+     ok och två hinkar invid spisen. Så fick hon syn på
+     svärdet. <q who="Brigide">Har du det kvar ännu? Sätt det åtminstone i
+     skidan.</q> Hon pekade på gehänget som låg i hörnet invid
+     dörren. Han tog upp gehänget och stack svärdet på plats.</p>
+
+    <p><q who="Peder">Du skall icke dräpa</q>, väste han. Nu hade han
+     dräpt. I hans inre spelades allt upp igen, om och om igen. Han
+     hade på något sätt förenats med våldtäktsmannens vapen. Det hörde
+     samman med såret i hans själ. Brigide reste sig och kom emot
+     honom, tog honom i sin famn. Fördämningarna brast igen och han
+     grät tyst, medan Brigide vaggade honom av och an. <q
+     who="Brigide">Förmodligen räddade du oss undan ett värre öde,
+     Peder.</q> viskade hon. De stod så några minuter eller i en
+     evighet.</p>
+
+    <p><q who="Peder">Jag hämtar vatten nu</q>, sa Peder och tog
+     hinkarna och gick. Han halade upp vatten, och invid brunnen stod
+     en ho och i den tvättade han bort lukten av skräckfylld urin ur
+     sina hosor. Det tog en stund innan han lyckades balansera oket
+     med två tunga hinkar på axlarna, men det gick. Huttrande barbent
+     återvände han. Brigide lyckades rota fram rena hosor åt honom, och
+     hängde upp de blöta över spisen som nu spred en välkomnande värme
+     i stugan. Hethikka låg lugnt och vilade.</p>
+
+    <p><q who="Brigide">Sök upp broder Konrad nu</q>, han
+     är förmodligen i Lundagård, sa Brigide. <q who="Brigide">Tala om allt,
+     precis som det var. Om Höjebromölla, mjölet och det som hände mig
+     och hur du dödade svensken.</q> Peder nickade. Han gick mot dörren,
+     men ångrade sig. Han plockade upp gehänget, lösgjorde dolken och
+     hängde den vid sitt eget skärp. Det kändes bra. Han kunde frigöra
+     sig från svärdet. Brigide skakade på huvudet, när hon såg det. <q
+     who="Brigide">Lunds vallar är säkra några dagar till. Du behöver
+     inga vapen</q>, sa hon.</p>
+
+    <p><q who="Peder">Det är inte det</q>, svarade Peder lågt, <q
+     who="Peder">Den är mitt band till honom</q>. Han tog farväl.</p>
+
+    <p>Han gick den nu välkända stigen tillbaka mot Lilla fiskargatan
+     och styrde sedan mot torget. Där var var ingen handel på
+     vilodagen. Däremot var det mer folk runt rådhuskällaren än förra
+     gången han passerade. Nerifrån krogen hördes sång och de nasala
+     tonerna från en säckpipa. Han stannade upp och lyssnade. Lund
+     försökte leva ett liv under hotet. Lund dansade och sjöng, som om
+     inget hade hänt. Lund lekte en låtsaslek och i den höll kung Carl
+     hov i en av sina borgar i Svealand.</p>
+
+    <p>Peder kunde också låtsas, och han behövde glömma och
+     leva. Känna att man kan leva med en människas blod på
+     händerna. Han kunde utforska staden, han hade flera timmar på
+     sig. Han hade inga pengar så det var knappast möjligt att gå in
+     och äta på krogen, men att lyssna lite på musiken kunde väl inte
+     vara förbjudet?</p>
+
+    <p>En liten trappa på gaveln till rådhuset ledder ner till
+     krogen. Den lilla dörren, eller porten, var av kraftigt virke och
+     inpassad i ett gotiskt spetsigt litet valv. Den stod på
+     glänt. Det var lågt till valvtaket och på flera ställen var där
+     kraftiga pelare. I den bortre kortsidan höll värden till. Han
+     skänkte ut öl och vin ur några rejäla träkaggar. Dryckerna
+     serverades i gästernas egna stop, dryckeshorn eller glas. Det
+     luktade öl och kål.</p>
+
+    <p>Över elden i en stor eldstad hängde en väldig gryta. Från den
+     spred sig en härlig doft av kålsoppa. Det var allt som stod på
+     menyn, kålsoppa som åts ut keramikskålar, med mörkt bröd och
+     sköljdes ner med öl. Peder erinrade sig att han inte ätit något
+     sedan frukost.  Bordsserveringen sköttes av två kvinnor, kanske
+     mor och dotter, eftersom de bar en tydlig likhet.</p>
+
+    <p>Invid dörren stod en pall. Som Peder varken tänkte äta eller
+     dricka, skönk han ner på den, i brist på bättre. Musiken kom från
+     en speleman med säckpipa och en flicka som dansade med tamburin i
+     handen och bjällror runt sina bara fötter. Det var en vild dans
+     och fötterna rörde sig över golvet som trumpinnar över ett
+     trumskinn. Hennes långa mörka hårsvall svängde i takt med
+     musiken.</p>
+
+    <p>Peder hade suttit en stund och insupit atmosfären och beundrat
+     flickans dans ett tag, när han upptäckte att den äldre av
+     servitriserna styrde mot honom med några skivor bröd i handen.</p>
+
+    <p><q who="Servitrisen">Var har du din tiggarskål?</q> frågade hon.</p>
+
+    <p><q who="Peder">Jag har ingen?</q> svarade Peder, som inte
+    förstod frågan.</p>
+
+    <p><q who="Servitrisen">Varför sitter du då på tiggarnas pall?</q></p>
+
+    <p><q who="Peder">Jag gick förbi, hörde musiken, och kom in för
+     att lyssna," svarade Perder sanningsenligt.</q></p>
+
+    <p><q who="Servitrisen">Men varför satte du dig inte vid ett
+    bord,</q> undrade servitrisen då.</p>
+
+    <p><q who="Peder">Jag ville inget ha att äta och dricka</q>, ljög
+     Peder medan hans blick på brödet så klart berättade motsatsen att
+     kvinnan bad honom flytta till ett bord bredvid och gav honom
+     brödet. Hon gick sedan, och kom tillbaka med en mugg med vatten.</p>
+
+    <p><q who="Servitrisen">Sätt dig du och lyssna så mycket du
+     vill</q>, sa kvinnan, och log vänligt mot honom.</p>
+
+
+    <p>Peder satt invid väggen. Han hade överblick över hela krogen,
+     och såg också vad lekarna hade för sig. Det var mest män i
+     lokalen, men där var inte så få kvinnor.  Medan han satt där och
+     långsamt åt på sitt bröd, för att det skulle räcka längre, kom
+     ett par nya gäster och satte sig vid bordet invid Peders. Två
+     män, lite finare klädda än de flesta. De beställde rehnskt vin,
+     bröd och soppa. De diskuterade intensivt men lågmält.</p>
+ 
+    <p>Musiken tystnade, och lekarna bugade mot sin publik. Dansaren
+     gick runt och samlade in pengar från publiken. De satte bredvid
+     Peder och serverades soppa, bröd och öl.</p>
+ 
+    <p><q who="dansösen">Du gillar musik, eller hur?</q> frågade
+     flickan.  Peder nickade, men kunde väl knappt berätta att han
+     egentligen föredrog rockmusik. Bäst de satt där, for den äldre av
+     de två nyanlända upp.</p>
+
+    <p><q who="den äldre gästen">Nej!</q> ropade han.  <q who="den
+      äldre gästen">Jag säljer inte min stad!</q></p>.
+
+    <p>En dolk blixtrade, och han föll framstupa över bordet.  Den
+    yngre av dem flydde i ett par raska språng ut ur lokalen.</p>
+
+  </div2>
+
+<!--
+
+$Id: kapitel-07.xml,v 1.8 2003/04/28 20:36:42 siglun Exp $
+
+$Log: kapitel-07.xml,v $
+Revision 1.8  2003/04/28 20:36:42  siglun
+Några få språkligheter.
+
+Revision 1.7  2003/01/19 20:36:29  siglun
+Plockat bort alla tyskar ur svenska hären. Rättat en massa korrekturfel.
+
+Revision 1.6  2002/07/03 15:36:21  siglun
+Bytt namn på Jasmine Rauchfuss, till Brigitte. I konsekvensens namn
+heter nu mor Anna helt enkelt mor Brigide
+
+Revision 1.5  2002/06/25 20:34:49  siglun
+Placerat Peder i Rådhuskällaren
+
+Revision 1.4  2002/06/20 19:51:49  siglun
+Fixat ortnamn, och lagt till ytterligare text
+
+Revision 1.3  2002/06/19 13:37:37  siglun
+Rättningar och buggfixar
+
+Revision 1.2  2002/05/21 06:55:15  siglun
+Överfört allt till ett slags lectioformat. Börjat den egentliga
+dialogen.
+
+Revision 1.1  2002/04/17 17:28:11  siglun
+Initial revision
+
+
+-->
+
+</div1>

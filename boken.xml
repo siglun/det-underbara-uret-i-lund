@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<!DOCTYPE TEI.2 [
+<!ENTITY titelsida SYSTEM "titelsida.xml">
+<!ENTITY kapitel1 SYSTEM "kapitel-01.xml">
+<!ENTITY kapitel2 SYSTEM "kapitel-02.xml">
+<!ENTITY kapitel3 SYSTEM "kapitel-03.xml">
+<!ENTITY kapitel4 SYSTEM "kapitel-04.xml">
+<!ENTITY kapitel5 SYSTEM "kapitel-05.xml">
+<!ENTITY kapitel6 SYSTEM "kapitel-06.xml">
+<!ENTITY kapitel7 SYSTEM "kapitel-07.xml">
+<!ENTITY kapitel8 SYSTEM "kapitel-08.xml">
+<!ENTITY kapitel9 SYSTEM "kapitel-09.xml">
+<!ENTITY kapitel10 SYSTEM "kapitel-10.xml">
+<!ENTITY eacute  "&#233;" >
+<!ENTITY ccedil  "&#231;" >
+<!ENTITY ndash "<ndash/>" >
+<!ENTITY mdash "<mdash/>" >
+<!ENTITY approx "<approx/>" >
+<!NOTATION eps SYSTEM "encapsulated postscript" >
+<!ENTITY CuriaLundense SYSTEM "CuriaLundense.eps" NDATA EPS>
+<!ENTITY centrum SYSTEM "centrum.eps" NDATA EPS>
+<!ENTITY Lund SYSTEM "./lund/lund-from-north.epsi" NDATA EPS>
+]>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title type="main">Kung Carl och det underbara uret i
+	Lund</title> <author>Sigfrid Lundberg</author>
+      </titleStmt>
+      <publicationStmt>
+	<publisher>Författaren</publisher>
+	<pubPlace>Lund</pubPlace> <date>2001</date>
+      </publicationStmt>
+      <sourceDesc>
+	<p>En bok om en serie händelser som äger någon gång.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+	&titelsida;
+    </front>
+    <body>
+      &kapitel1;
+      &kapitel2;
+      &kapitel3;
+      &kapitel4;
+      &kapitel5;
+      &kapitel6;
+      &kapitel7;
+      &kapitel8;
+      &kapitel9;
+      &kapitel10;
+      </body>
+    </text>
+
+<!--
+
+  $Id: boken.xml,v 1.1 2002/02/03 21:47:11 siglun Exp siglun $
+  $Log: boken.xml,v $
+  Revision 1.1  2002/02/03 21:47:11  siglun
+  Initial revision-->
+
+</TEI.2>
