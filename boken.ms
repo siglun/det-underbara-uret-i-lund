@@ -91,7 +91,7 @@ Problemets andra sida kunde man skymta mellan husen i staden.
 Höga krenelerade murar, porttorn och innaför dem stora befästa byggnader.
 .\" Matching paragraph
 .PP
-Lundagård \(em\fICuria Lundensis\fR\(em ärkebiskopens borg.
+Lundagård \(em\fI Curia Lundensis \fR\(em ärkebiskopens borg.
 Dess murar försvarades av väl tränade och betalda knektar.
 .\" Matching paragraph
 .PP
@@ -106,7 +106,7 @@ Och inte brydde det honom att Gud hörde.
 .PP
 \(rqJag sa:
 Gör klar en fänika tunga ryttare.
-Med kungens standar, parlamentärsflagg, pukor och trumpetar, allt till häst!
+Med kungens standar, parlamentärsflagg, pukor och trumpeter, allt till häst!
 Och, sadla min häst!\(rq
 .\" Matching div2
 .LP
