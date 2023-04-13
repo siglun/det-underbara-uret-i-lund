@@ -2,7 +2,7 @@
 
 En oavslutad längre text [ud.pdf](ud.pdf).  Jag skäms inte längre för
 den.  Problemet med den är väl närmast att den inte passar någon av
-dess potentiella mågrupper...
+dess potentiella målgrupper...
 
 Jag arbetade med detta under några år runt sekelskiftet 2000. Senaste
 revisionen då var i maj 2003 (enligt RCS log entries). Jag ansåg då
@@ -12,7 +12,7 @@ på min sak; lämnar nu byrålådan på glänt.
 ![astrolabium](astrolabium2.svg)
 
 Där är intressant kod i projektet, för hanteringen av sidohuvuden på
-väster- respektive högersidor, kapitelhuvuden, och för ornament och
+vänster- respektive högersidor, kapitelhuvuden, och för ornament och
 andra typografiska finesser. Där är också kod som redigerar innehållet
 i eps-filer.
 
