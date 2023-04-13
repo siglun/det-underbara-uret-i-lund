@@ -23,6 +23,7 @@ postscript typsnitt (aka font). Brödtexten är i Berling antikva, som
 är en kommersiell typsnitt jag köpt eftersom det är det enda välkända
 typsnittet från Lund.
 
-Texten är i ISO-8859-1, eftersom GNU troff fortfarande år 2000 hade
-shaky UTF-8 support. Anfangerna i yinit-as får inte ha märkliga
-diakritiska tecken (t ex inte vara å, ä eller ö).
+Texten är skriven i XML. Character encoding är ISO-8859-1, eftersom
+GNU troff fortfarande år 2000 hade shaky UTF-8 support (det har
+ändrats). Anfangerna i `yinit-as` får inte ha märkliga diakritiska
+tecken (t ex inte vara å, ä eller ö).
